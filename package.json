@@ -1,0 +1,23 @@
+{
+  "name": "automation-playwright-pom",
+  "version": "1.0.0",
+  "description": "Automation Playwright with Page Object Model (POM) Structure",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzikrinasa/automation-playwright-pom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dzikrinasa/automation-playwright-pom/issues"
+  },
+  "homepage": "https://github.com/dzikrinasa/automation-playwright-pom#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
