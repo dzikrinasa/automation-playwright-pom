@@ -8,13 +8,13 @@
 #### 3. Navigate to Project Folder
   > `cd automation-playwright-pom`
 
-#### 4. Install Dependencies
-  > `npm install`
-
-#### 5. Select or Change Branch
+#### 4. Select or Change Branch
+  > `git checkout development` 
   > `git branch`
-  > `git checkout development`
   > `git checkout main`
+
+#### 5. Install Dependencies
+  > `npm install`
 
 # Running the tests
 #### Run the tests in headed mode (visible browser):
