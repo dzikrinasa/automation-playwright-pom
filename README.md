@@ -11,18 +11,17 @@
 #### 4. Select or Change Branch
   > `git checkout development` 
   > `git branch`
-  > `git checkout main`
 
 #### 5. Install Dependencies
   > `npm install`
 
-# Running the tests
+## Running the tests
 #### Run the tests in headed mode (visible browser):
   > `npx playwright test --headed`
 
 #### Run the tests in headless browsers:
   > `npx playwright test`
 
-# Test Reports
+## Test Reports
 #### Generate HTML report:
   > `npx playwright show-report`
