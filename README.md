@@ -2,14 +2,22 @@
 #### 1. Installing Nodejs
   - Install Nodejs from [here](https://nodejs.org/en/download/)
 
-#### 2. Clone Project Repository
+#### 2. Clone The Repository
   > `git clone https://github.com/dzikrinasa/automation-playwright-pom.git` 
 
-#### 3. Installing Dependencies
+#### 3. Navigate to Project Folder
+  > `cd automation-playwright-pom`
+
+#### 4. Install Dependencies
   > `npm install`
 
+#### 5. Select or Change Branch
+  > `git branch`
+  > `git checkout development`
+  > `git checkout main`
+
 # Running the tests
-#### Run the tests in displayed browsers:
+#### Run the tests in headed mode (visible browser):
   > `npx playwright test --headed`
 
 #### Run the tests in headless browsers:
